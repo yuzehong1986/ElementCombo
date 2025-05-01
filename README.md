@@ -87,6 +87,10 @@ pip install PyQt5
 保留所有权利。未经授权，不得复制、修改或分发本软件。
 
 打赏：
-![image](https://github.com/user-attachments/assets/f7c0625e-eb9c-44bf-a54e-54e061b11b66)![image](https://github.com/user-attachments/assets/fa793d89-ba1e-4a90-b8be-5a911c848b2a)
+
+![image](https://github.com/user-attachments/assets/775482eb-c423-4f4b-b8e5-857ba4bce788)
+![image](https://github.com/user-attachments/assets/5bec7c37-1337-48e4-8ad7-226d0e45fc4e)
+
+
 
 
