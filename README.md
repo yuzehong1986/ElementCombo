@@ -1,5 +1,7 @@
 # 元素组合计算器 (Element Combination Calculator)
 
+![image](https://github.com/user-attachments/assets/bf890d25-47d2-4861-ac30-961da09886ed)
+
 一个基于 PyQt5 开发的元素周期表组合计算工具，支持双计算系统，提供直观的图形界面和丰富的功能。
 
 ## 功能特点
